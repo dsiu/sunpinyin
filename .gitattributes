@@ -1,6 +1,0 @@
-.gitignore export-ignore
-.gitattributes export-ignore
-/debian export-ignore
-/wrapper/macos export-ignore
-/wrapper/xim/debian export-ignore
-/wrapper/ibus/debian export-ignore
